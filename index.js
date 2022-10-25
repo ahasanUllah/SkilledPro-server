@@ -15,6 +15,12 @@ app.get('/category', (req,res) => {
     res.send(categories)
 })
 
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id 
+    const selected_category = course.filter(c => c.category_id == id)
+    res.send(selected_category)
+})
+
 app.get('/course', (req, res) => {
     res.send(course)
    

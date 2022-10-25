@@ -6,7 +6,8 @@
     "instructor": "Laurie Woolland",
     "price": 38,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 1
   }, {
     "id": 2,
     "title": "Time Management Mastery: Do More, Stress Less",
@@ -15,7 +16,8 @@
     "instructor": "Felic Le Grice",
     "price": 55,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 2
   }, {
     "id": 3,
     "title": "Angular – The Complete Guide (2020 Edition)",
@@ -24,7 +26,8 @@
     "instructor": "Berkly Causer",
     "price": 68,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id":3
   }, {
     "id": 4,
     "title": "Consulting Approach to Problem Solving",
@@ -33,7 +36,8 @@
     "instructor": "Welsh Jonk",
     "price": 50,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 4
   }, {
     "id": 5,
     "title": "The Business Intelligence Analyst Course 2020",
@@ -42,7 +46,8 @@
     "instructor": "Micheil Mac Giolla Pheadair",
     "price": 61,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 5
   }, {
     "id": 6,
     "title": "Become a Product Manager | Learn the Skills & Get the Job",
@@ -51,7 +56,8 @@
     "instructor": "Murial Whelan",
     "price": 68,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 6
   }, {
     "id": 7,
     "title": "Mechanical Engineering and Electrical Engineering Explained",
@@ -60,7 +66,8 @@
     "instructor": "Ophelie Dawidowicz",
     "price": 45,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 1
   }, {
     "id": 8,
     "title": "Learn Algebra The Easy Way!",
@@ -69,7 +76,8 @@
     "instructor": "Syd Mixter",
     "price": 34,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 2
   }, {
     "id": 9,
     "title": "Essential Digital Tools for Student Engagement",
@@ -78,7 +86,8 @@
     "instructor": "Zandra Formie",
     "price": 29,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 3
   }, {
     "id": 10,
     "title": "Adobe Lightroom For Beginners : Complete Photo/Image Editing",
@@ -87,5 +96,6 @@
     "instructor": "Cherice Battyll",
     "price": 34,
     "description": null,
-    "rating": 5
+    "rating": 5,
+    "category_id": 4
   }]
