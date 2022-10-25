@@ -5,7 +5,7 @@
     "lavel": "All Level",
     "instructor": "Laurie Woolland",
     "price": 38,
-    "description": null,
+    "description": "Negotiation is a skill well worth mastering – by putting some simple techniques into practise you could save thousands, and this course will show you how.During your life you will come across hundreds of situations that will put your negotiation skills to the test. Whether buying a house or car, deliberating contracts for your business, or reviewing your salary with your boss, your success in these activities will be heavily dependent on your ability to negotiate. Take this negotiation course today and you’ll learn to negotiate masterfully, giving yourself a considerably better chance of personal and financial success. Just check out the reviews to see what a difference successful negotiation can make to your life.",
     "rating": 5,
     "category_id": 1
   }, {
@@ -15,7 +15,7 @@
     "lavel": "Beginer",
     "instructor": "Felic Le Grice",
     "price": 55,
-    "description": null,
+    "description": "If you’re someone who has a LOT on their plate and wants to find a system to handle it all, but who also craves downtime for yourself, this course is for you. In this course, I distill all of the content, strategies, techniques and skills that I acquired, developed and implemented over 15+ years managing Operations and HR in start-ups (and that I use daily with my clients in my time-management coaching practice) into an easy-to-follow, step-by-step process for anyone looking to get more out of their time.",
     "rating": 5,
     "category_id": 2
   }, {
@@ -25,7 +25,7 @@
     "lavel": "All Level",
     "instructor": "Berkly Causer",
     "price": 68,
-    "description": null,
+    "description": "From Setup to Deployment, this course covers it all! You’ll learn all about Components, Directives, Services, Forms, Http Access, Authentication, Optimizing an Angular App with Modules and Offline Compilation and much more – and in the end: You’ll learn how to deploy an application! But that’s not all! This course will also show you how to use the Angular CLI and feature a complete project, which allows you to practice the things learned throughout the course! Angular is one of the most modern, performance-efficient and powerful frontend frameworks you can learn as of today. It allows you to build great web apps which offer awesome user experiences! Learn all the fundamentals you need to know to get started developing Angular applications right away.",
     "rating": 5,
     "category_id":3
   }, {
@@ -35,7 +35,7 @@
     "lavel": "Beginer",
     "instructor": "Welsh Jonk",
     "price": 50,
-    "description": null,
+    "description": "Do you feel that you already know all possible frameworks of business problem solving (Porter’s five forces, the BCG-matrix etc.), yet you are still not confident in using them? Or maybe you already took a course on management consulting problem solving approach, but the jargon used didn’t make much practical sense to you (The 80/20 rule, MECE etc.)? Whether you’re a student studying for case interviews or a businessperson, what you might be lacking is a comprehensive aproach to problem solving that generates consistent results..If so, this course is for you! I can guarantee you will not find another such comprehensive introductory course on hypothesis-based problem solving – the top consulting firms’ technique of choice on all kinds of business consulting engagements.",
     "rating": 5,
     "category_id": 4
   }, {
@@ -45,7 +45,7 @@
     "lavel": "All Level",
     "instructor": "Micheil Mac Giolla Pheadair",
     "price": 61,
-    "description": null,
+    "description": "It is truly comprehensive. The Business Intelligence Analyst Course comprises of several modules: Introduction to Data and Data Science Statistics and Excel Database theory SQL Tableau SQL + Tableau These are the precise technical skills recruiters are looking for when hiring BI Analysts. And today, you have the chance of acquiring an invaluable advantage to get ahead of other candidates. This course will be the secret to your success. And your success is our success, so let’s make it happen!",
     "rating": 5,
     "category_id": 5
   }, {
@@ -55,7 +55,7 @@
     "lavel": "Beginer",
     "instructor": "Murial Whelan",
     "price": 68,
-    "description": null,
+    "description": "The demand for Product Management is increasing at an insane rate. More and more companies are finally figuring out how important this discipline and this role is to their success.But how exactly do you get into the field? There aren’t any degrees in Product Management & there are no certifications. Most Product Managers get into the field through luck or connections. That ends here – we’ll get you up to date on ALL the skills you need to learn Product Management AND have the best chance at getting the job you want. There’s no more ambiguity to it. We’ll show you what you need to know and what you have to do – all taught from a Product Management insider. Students aren’t required to know anything beforehand – we’ll teach you the fundamentals, how to apply them, how to develop into an advanced product manager, and finally how to maximize your chances to get a job as a Product Manager.",
     "rating": 5,
     "category_id": 6
   }, {
@@ -65,7 +65,7 @@
     "lavel": "All Level",
     "instructor": "Ophelie Dawidowicz",
     "price": 45,
-    "description": null,
+    "description": "Electronics has become important to many fields; communications, automotive, security, defense and consumer electronics, to name just a few. This course will familiarize you with the theory behind various types of electrical and electronic circuitry. It concentrates on practical aspects of the technology, rather than delving into depths of theory that will be of little value in real-world working situations.If you are a person who likes to know how things work, and enjoys the challenge of figuring out why not when they don’t, the study of electrical engineering technology is sure to offer knowledge and skills that will interest you, and opportunities in the workplace that you will find personally rewarding, and financially attractive. This course can help you qualify for careers in a variety of entry-level positions, such as electronics technician, service technician, telecommunications technician and engineering technician.",
     "rating": 5,
     "category_id": 1
   }, {
@@ -75,7 +75,7 @@
     "lavel": "Advance",
     "instructor": "Syd Mixter",
     "price": 34,
-    "description": null,
+    "description": "This course will begin with an overview of data types and descriptive Statistics. There will be extensive coverage of probability topics along with an introduction to discrete and continuous probability distributions. The course ends with a discussion of the central limit theorem and coverage of estimation using confidence intervals and hypothesis testing. This course is equivalent to most college level Statistics I courses.",
     "rating": 5,
     "category_id": 2
   }, {
@@ -85,7 +85,7 @@
     "lavel": "Beginer",
     "instructor": "Zandra Formie",
     "price": 29,
-    "description": null,
+    "description": "Engaging and motivating students are always very challenging task faced even by seasoned educators. To make matter even more challenging is the fact that the average concentration span of adult learners are very short (around 9 seconds). Therefore it is incumbent upon the educators to find ways to gain the learners attention using creative strategies such as interactive learning activities in the classroom. The advantages of using web-based tools are very obvious: no download and installation are required. Most of the web-based tools are also easy to use. In this workshop, several tools will be covered that would help educators to create interactive learning activities such as ice breaking session, brainstorming, discussion, reflection, and much more.",
     "rating": 5,
     "category_id": 3
   }, {
@@ -95,7 +95,7 @@
     "lavel": "Beginer",
     "instructor": "Cherice Battyll",
     "price": 34,
-    "description": null,
+    "description": "Adobe Lightroom is designed for photographers. It provides you the ability to organize, edit and manage your photos like no other software. The Lightroom tutorials start off explaining what Lightroom is, what catalogs are and how many you should consider having. Then we’ll dissect the interface and learn how to customize for our own personal preference. From there, you can follow along as we import photos, organize and do advanced searches. Once your organized, we’ll explore all the options for creating works of art by editing in the Develop module.",
     "rating": 5,
     "category_id": 4
   }]

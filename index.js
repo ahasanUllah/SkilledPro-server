@@ -11,7 +11,9 @@ app.get('/', (req, res) => {
     res.send('Hello express')
 })
 
-
+app.get('/category', (req,res) => {
+    res.send(categories)
+})
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id 
