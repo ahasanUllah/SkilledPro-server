@@ -30,7 +30,7 @@ app.get('/course/:id', (req,res) => {
     const id = parseInt(req.params.id);
     const single_course = course.find(c => c.id === id);
     res.send(single_course);
-    console.log(typeof id);
+    
 })
 
 app.listen(port, () => {
